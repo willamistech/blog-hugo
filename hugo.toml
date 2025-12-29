@@ -1,4 +1,4 @@
-baseURL = "baseURL = "https://unique-starship-f2abb1.netlify.app/"
+baseURL = "https://unique-starship-f2abb1.netlify.app/"
 languageCode = "pt-br"
 title = "Willamis"
 theme = "PaperMod"
@@ -8,3 +8,4 @@ canonifyURLs = true
 
 [params]
 defaultTheme = "auto"
+
