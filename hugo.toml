@@ -6,5 +6,12 @@ theme = "PaperMod"
 relativeURLs = false
 canonifyURLs = true
 
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
 [params]
-defaultTheme = "auto"
+  defaultTheme = "auto"
+
+

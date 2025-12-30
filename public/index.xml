@@ -10,9 +10,9 @@
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Crie Sua Máquina Virtual Sem Programas: Aprenda a Usar a Sandbox do Windows</title>
-      <link>http://localhost:1313/posts/primeiro-post/</link>
+      <link>http://localhost:1313/posts/26-12-25-infra/</link>
       <pubDate>Fri, 26 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/primeiro-post/</guid>
+      <guid>http://localhost:1313/posts/26-12-25-infra/</guid>
       <description>&lt;p&gt;A Sandbox do Windows é uma ferramenta útil que permite executar aplicativos em um ambiente isolado, protegendo seu sistema principal de possíveis ameaças.&lt;/p&gt;
 &lt;p&gt;Um ambiente Sandbox é uma ferramenta poderosa que permite testar e executar aplicativos de forma isolada, sem afetar o sistema operacional principal. Aqui estão algumas coisas que você pode fazer com uma Sandbox:&lt;/p&gt;
 &lt;p&gt;Testar Software Desconhecido
@@ -25,9 +25,9 @@ Veja o passo a passo:&lt;/p&gt;</description>
     </item>
     <item>
       <title>Como versionar um projeto Hugo no GitHub usando GitHub Desktop (sem dor de cabeça)</title>
-      <link>http://localhost:1313/posts/segundo-post/</link>
+      <link>http://localhost:1313/posts/24-12-23-noticias/</link>
       <pubDate>Wed, 24 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/segundo-post/</guid>
+      <guid>http://localhost:1313/posts/24-12-23-noticias/</guid>
       <description>&lt;p&gt;Quando começamos a trabalhar com sites estáticos usando Hugo, uma das primeiras dúvidas é como versionar o projeto corretamente no GitHub — sem confundir código-fonte com build e sem quebrar a estrutura do repositório.&lt;/p&gt;
 &lt;p&gt;Neste post, vou mostrar o fluxo simples e funcional que utilizo para enviar um projeto Hugo local para o GitHub usando o GitHub Desktop, evitando erros comuns.&lt;/p&gt;
 &lt;p&gt;Estrutura correta do projeto&lt;/p&gt;
@@ -41,6 +41,27 @@ Veja o passo a passo:&lt;/p&gt;</description>
       <description>&lt;p&gt;O Linux é um sistema operacional de código aberto amplamente utilizado que tem conquistado uma grande base de usuários em todo o mundo. Se você é um iniciante no mundo da computação e deseja entender o que é o Linux, sua história, características principais e por que ele é tão popular, este artigo é para você.&lt;/p&gt;
 &lt;h2 id=&#34;o-que-é-o-linux&#34;&gt;O que é o Linux?&lt;/h2&gt;
 &lt;p&gt;O Linux é um sistema operacional que foi desenvolvido como um projeto de código aberto por Linus Torvalds em 1991. Diferentemente dos sistemas operacionais comerciais, o Linux é construído em torno do kernel Linux, que é a parte central do sistema responsável por gerenciar recursos e interações de hardware. O Linux permite que os usuários executem programas, acessem arquivos e interajam com seus computadores.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Contato</title>
+      <link>http://localhost:1313/contato/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/contato/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Currículo</title>
+      <link>http://localhost:1313/curriculo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/curriculo/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Sobre</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description></description>
     </item>
   </channel>
 </rss>
