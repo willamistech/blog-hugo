@@ -4,7 +4,7 @@ date: 2025-12-24
 draft: false
 
 cover:
- image: "destaque.jpg"
+ image: "capa.jpg"
  alt: "Imagem de destaque do post"
  relative: true
 ---

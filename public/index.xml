@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Willamis</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Willamis</description>
+    <generator>Hugo -- 0.152.2</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Fri, 26 Dec 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Crie Sua Máquina Virtual Sem Programas: Aprenda a Usar a Sandbox do Windows</title>
+      <link>http://localhost:1313/posts/primeiro-post/</link>
+      <pubDate>Fri, 26 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/primeiro-post/</guid>
+      <description>&lt;p&gt;A Sandbox do Windows é uma ferramenta útil que permite executar aplicativos em um ambiente isolado, protegendo seu sistema principal de possíveis ameaças.&lt;/p&gt;
+&lt;p&gt;Um ambiente Sandbox é uma ferramenta poderosa que permite testar e executar aplicativos de forma isolada, sem afetar o sistema operacional principal. Aqui estão algumas coisas que você pode fazer com uma Sandbox:&lt;/p&gt;
+&lt;p&gt;Testar Software Desconhecido
+Navegação Segura
+Desenvolvimento e Testes
+Treinamento e Aprendizado
+Isolamento de Tarefas Sensíveis
+Experimentos com Configurações do Sistema
+Veja o passo a passo:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Como versionar um projeto Hugo no GitHub usando GitHub Desktop (sem dor de cabeça)</title>
+      <link>http://localhost:1313/posts/segundo-post/</link>
+      <pubDate>Wed, 24 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/segundo-post/</guid>
+      <description>&lt;p&gt;Quando começamos a trabalhar com sites estáticos usando Hugo, uma das primeiras dúvidas é como versionar o projeto corretamente no GitHub — sem confundir código-fonte com build e sem quebrar a estrutura do repositório.&lt;/p&gt;
+&lt;p&gt;Neste post, vou mostrar o fluxo simples e funcional que utilizo para enviar um projeto Hugo local para o GitHub usando o GitHub Desktop, evitando erros comuns.&lt;/p&gt;
+&lt;p&gt;Estrutura correta do projeto&lt;/p&gt;
+&lt;p&gt;No meu ambiente, separo claramente código-fonte e build:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Linux: Um guia para iniciantes sobre o sistema operacional de código aberto</title>
+      <link>http://localhost:1313/posts/15-05-23-infra/</link>
+      <pubDate>Mon, 15 May 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/15-05-23-infra/</guid>
+      <description>&lt;p&gt;O Linux é um sistema operacional de código aberto amplamente utilizado que tem conquistado uma grande base de usuários em todo o mundo. Se você é um iniciante no mundo da computação e deseja entender o que é o Linux, sua história, características principais e por que ele é tão popular, este artigo é para você.&lt;/p&gt;
+&lt;h2 id=&#34;o-que-é-o-linux&#34;&gt;O que é o Linux?&lt;/h2&gt;
+&lt;p&gt;O Linux é um sistema operacional que foi desenvolvido como um projeto de código aberto por Linus Torvalds em 1991. Diferentemente dos sistemas operacionais comerciais, o Linux é construído em torno do kernel Linux, que é a parte central do sistema responsável por gerenciar recursos e interações de hardware. O Linux permite que os usuários executem programas, acessem arquivos e interajam com seus computadores.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
