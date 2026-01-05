@@ -20,3 +20,11 @@ Aqui você encontrará conteúdos que vão desde infraestrutura e segurança da 
 Meu objetivo é oferecer informações claras, práticas e relevantes para quem deseja se manter atualizado e aproveitar ao máximo as possibilidades que a tecnologia pode oferecer.
 
 Obrigado pela visita. Espero que você encontre aqui conteúdos úteis, interessantes e que façam diferença no seu dia a dia.
+
+---
+
+### Onde me encontrar
+
+- 💼 **LinkedIn**: [linkedin.com/in/willamis](https://www.linkedin.com/in/willamis/)
+- 💻 **GitHub**: [github.com/willamistech](https://github.com/willamistech)
+

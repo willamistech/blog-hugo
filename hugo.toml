@@ -15,6 +15,15 @@ canonifyURLs = true
 defaultTheme = "auto"
 mainSections = ["posts"]
 enableSearch = true
+ShowFooter = true
+
+[[params.socialIcons]]
+name = "github"
+url = "https://github.com/willamistech"
+
+[[params.socialIcons]]
+name = "linkedin"
+url = "https://www.linkedin.com/in/willamis/"
 
 [outputs]
   home = ["HTML", "RSS", "JSON"]
