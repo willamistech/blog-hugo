@@ -1,7 +1,6 @@
 ---
 title: "Sobre"
 ---
-
 <div style="display:flex; gap:1.5rem; align-items:flex-start; margin:2rem 0;">
   <div style="flex:1;">
     <p style="margin:0 0 1rem 0;">
