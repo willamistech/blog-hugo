@@ -14,9 +14,26 @@ canonifyURLs = true
 [params]
 defaultTheme = "auto"
 mainSections = ["posts"]
+enableSearch = true
+customCSS = ["css/extended/custom.css"]
 
-[[menu.main]]
-name = "Menu"
-url = "/pages/menu/"
-weight = 20
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+
+[menu]
+
+  [[menu.main]]
+    name = "Home"
+    url = "/"
+    weight = 1
+
+  [[menu.main]]
+    name = "Sobre"
+    url = "/pages/about/"
+    weight = 2
+
+  [[menu.main]]
+    name = "Pesquisar"
+    url = "/search/"
+    weight = 3
 
