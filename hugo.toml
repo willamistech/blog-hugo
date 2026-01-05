@@ -16,6 +16,7 @@ defaultTheme = "auto"
 mainSections = ["posts"]
 enableSearch = true
 ShowFooter = true
+ShowSocialIcons = true
 
 [[params.socialIcons]]
 name = "github"
