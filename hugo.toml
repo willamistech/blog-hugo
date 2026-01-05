@@ -15,7 +15,6 @@ canonifyURLs = true
 defaultTheme = "auto"
 mainSections = ["posts"]
 enableSearch = true
-customCSS = ["css/extended/custom.css"]
 
 [outputs]
   home = ["HTML", "RSS", "JSON"]

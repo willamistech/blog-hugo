@@ -2,8 +2,11 @@
 title: "Sobre o autor"
 ---
 
-<div class="about-photo-wrapper">
-  <img src="/images/profile.png" alt="Foto de Willamis">
+<div style="display:flex;justify-content:center;margin:2rem 0;">
+  <img
+    src="/images/profile.png"
+    style="width:200px;height:200px;border-radius:50%;object-fit:cover;"
+  >
 </div>
 
 Olá! Meu nome é Willamis e sou apaixonado por tecnologia desde sempre. Sou formado em Análise e Desenvolvimento de Sistemas e possuo MBA em Segurança de Redes de Computadores, com foco em soluções práticas, seguras e aplicáveis a ambientes reais.
