@@ -12,6 +12,11 @@ canonifyURLs = true
       unsafe = true
 
 [params]
-  defaultTheme = "auto"
+defaultTheme = "auto"
+mainSections = ["posts"]
 
+[[menu.main]]
+name = "Menu"
+url = "/pages/menu/"
+weight = 20
 
