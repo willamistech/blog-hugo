@@ -5,7 +5,16 @@ title: "Sobre o autor"
 <div style="display:flex;justify-content:center;margin:2rem 0;">
   <img
     src="/images/profile.png"
-    style="width:200px;height:200px;border-radius:50%;object-fit:cover;"
+    alt="Foto de Willamis"
+    style="
+      width:200px;
+      height:200px;
+      max-width:60vw;
+      max-height:60vw;
+      border-radius:50%;
+      object-fit:cover;
+      display:block;
+    "
   >
 </div>
 
