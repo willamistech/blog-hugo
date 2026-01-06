@@ -1,6 +1,14 @@
-.footer {
-  text-align: center;
-  padding: 20px 0;
-  font-size: 0.85rem;
-  color: var(--secondary);
+/* Esconde apenas o bloco "Powered by Hugo & PaperMod" */
+.footer a[href*="hugo-PaperMod"] {
+  display: none !important;
+}
+
+/* Remove também o texto e o & que ficam juntos */
+.footer a[href*="gohugo.io"] {
+  display: none !important;
+}
+
+/* Opcional: remove o texto "Powered by" que sobra */
+.footer span {
+  white-space: normal;
 }
