@@ -2,6 +2,7 @@
 title: "Linux: Um guia para iniciantes sobre o sistema operacional de código aberto"
 date: 2023-05-15
 draft: false
+categories: ["Linux"]
 
 cover:
  image: "capa.jpg"
