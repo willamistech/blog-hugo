@@ -3,6 +3,8 @@ languageCode = "pt-br"
 title = "Willamis"
 theme = "PaperMod"
 
+copyright = "© 2026 Willamis. Todos os direitos reservados."
+
 relativeURLs = false
 canonifyURLs = true
 
