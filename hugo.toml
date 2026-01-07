@@ -1,24 +1,48 @@
+# =========================
+# Configurações básicas
+# =========================
 baseURL = "https://willamis.netlify.app/"
 languageCode = "pt-br"
 title = "Willamis"
 theme = "PaperMod"
 
-copyright = "© 2026 Willamis. Todos os direitos reservados."
-
 relativeURLs = false
 canonifyURLs = true
 
+# =========================
+# Copyright
+# =========================
+copyright = "© 2026 Willamis. Todos os direitos reservados."
+
+# =========================
+# Markdown / HTML
+# =========================
 [markup]
   [markup.goldmark]
     [markup.goldmark.renderer]
       unsafe = true
 
+# =========================
+# Parâmetros do tema
+# =========================
 [params]
 defaultTheme = "auto"
 mainSections = ["posts"]
 enableSearch = true
 ShowFooter = true
 
+# =========================
+# Assets (favicon)
+# =========================
+[params.assets]
+favicon = "/favicon/favicon.ico"
+favicon16x16 = "/favicon/favicon-16x16.png"
+favicon32x32 = "/favicon/favicon-32x32.png"
+apple_touch_icon = "/favicon/apple-touch-icon.png"
+
+# =========================
+# Ícones sociais
+# =========================
 [[params.socialIcons]]
 name = "github"
 url = "https://github.com/willamistech"
@@ -27,23 +51,28 @@ url = "https://github.com/willamistech"
 name = "linkedin"
 url = "https://www.linkedin.com/in/willamis/"
 
+# =========================
+# Outputs (necessário para busca)
+# =========================
 [outputs]
-  home = ["HTML", "RSS", "JSON"]
+home = ["HTML", "RSS", "JSON"]
 
+# =========================
+# Menu principal
+# =========================
 [menu]
 
-  [[menu.main]]
-    name = "Home"
-    url = "/"
-    weight = 1
+[[menu.main]]
+name = "Home"
+url = "/"
+weight = 1
 
-  [[menu.main]]
-    name = "Sobre"
-    url = "/pages/about/"
-    weight = 2
+[[menu.main]]
+name = "Sobre"
+url = "/pages/about/"
+weight = 2
 
-  [[menu.main]]
-    name = "Pesquisar"
-    url = "/search/"
-    weight = 3
-
+[[menu.main]]
+name = "Pesquisar"
+url = "/search/"
+weight = 3
