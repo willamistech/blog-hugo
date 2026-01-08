@@ -3,6 +3,7 @@
 # =========================
 baseURL = "https://willamis.netlify.app/"
 languageCode = "pt-br"
+defaultContentLanguage = "pt-br"
 title = "Willamis"
 theme = "PaperMod"
 
