@@ -1,7 +1,7 @@
 # =========================
 # Configurações básicas
 # =========================
-baseURL = "https://willamis.netlify.app/"
+baseURL = "https://willamis.com.br/"
 languageCode = "pt-br"
 defaultContentLanguage = "pt-br"
 title = "Willamis"
