@@ -2,7 +2,8 @@
 title: "Por que escolhi DNS Cloudflare em vez de blacklist e proxy no meu ambiente"
 date: 2026-01-05
 draft: false
-categories: ["Redes"]
+tags: ["dns", "cloudflare", "proxy", "segurança-de-rede"]
+categories: ["redes"]
 
 cover:
  image: "capa.jpg"

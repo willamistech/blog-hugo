@@ -13,7 +13,7 @@ canonifyURLs = true
 # =========================
 # Copyright
 # =========================
-copyright = "© 2026 Willamis. Todos os direitos reservados."
+copyright = "© 2026 Willamis. Todos os direitos reservados"
 
 # =========================
 # Markdown / HTML
@@ -31,6 +31,7 @@ defaultTheme = "auto"
 mainSections = ["posts"]
 enableSearch = true
 ShowFooter = true
+ShowPostNavLinks = true
 
 # =========================
 # Assets (favicon)
@@ -41,16 +42,6 @@ favicon16x16 = "/favicon/favicon-16x16.png"
 favicon32x32 = "/favicon/favicon-32x32.png"
 apple_touch_icon = "/favicon/apple-touch-icon.png"
 
-# =========================
-# Ícones sociais
-# =========================
-[[params.socialIcons]]
-name = "github"
-url = "https://github.com/willamistech"
-
-[[params.socialIcons]]
-name = "linkedin"
-url = "https://www.linkedin.com/in/willamis/"
 
 # =========================
 # Outputs (necessário para busca)
@@ -77,3 +68,11 @@ weight = 2
 name = "Pesquisar"
 url = "/search/"
 weight = 3
+
+[[params.socialIcons]]
+name = "github"
+url = "https://github.com/willamistech"
+
+[[params.socialIcons]]
+name = "linkedin"
+url = "https://linkedin.com/in/willamis"

@@ -2,6 +2,8 @@
 title: "Como acessar remotamente outro computador via SSH"
 date: 2023-07-08
 draft: false
+tags: ["Linux", "ssh", "shell"]
+categories: ["Linux"]
 
 cover:
  image: "capa.jpg"

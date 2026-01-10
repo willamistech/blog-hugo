@@ -2,6 +2,8 @@
 title: "Casa inteligente: Saiba quais equipamentos essencias para iniciar"
 date: 2023-05-16
 draft: false
+tags: ["casa-inteligente", "iot", "automação-residencial"]
+categories: ["casa-inteligente"]
 
 cover:
  image: "capa.jpg"

@@ -2,6 +2,8 @@
 title: "Crie Sua Máquina Virtual Sem Programas: Aprenda a Usar a Sandbox do Windows"
 date: 2025-12-26
 draft: false
+tags: ["máquina-virtual", "virtual-box", "android"]
+categories: ["Sofware"]
 
 cover:
  image: "capa.jpg"
