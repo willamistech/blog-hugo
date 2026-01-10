@@ -6,7 +6,7 @@ tags: ["casa-inteligente", "iot", "automação-residencial"]
 categories: ["casa-inteligente"]
 
 cover:
- image: "capa.jpg"
+ image: "capa.webp"
  alt: "Imagem de destaque do post"
  relative: true
 ---
