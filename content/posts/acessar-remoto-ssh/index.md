@@ -6,7 +6,7 @@ tags: ["Linux", "ssh", "shell"]
 categories: ["Linux"]
 
 cover:
- image: "capa.jpg"
+ image: "capa.webp"
  alt: "Imagem de destaque do post"
  relative: true
 ---
